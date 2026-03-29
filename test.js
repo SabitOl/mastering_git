@@ -1,1 +1,1 @@
-console.log('Test says Hello Git'!);
+console.log('Test says Hello Git!');
